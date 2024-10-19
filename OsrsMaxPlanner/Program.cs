@@ -1,5 +1,6 @@
 ﻿using Newtonsoft.Json;
 using OsrsMaxPlanner.Models;
+using OsrsMaxPlanner.Services;
 
 namespace OsrsMaxPlanner;
 
@@ -8,7 +9,8 @@ internal class Program
     static void Main(string[] args)
     {
         var playerData = GetPlayerData();
-
+        var temp = new FishingMethodService().GetMethods();
+        var temp2 = JsonConvert.SerializeObject(temp.OrderBy(x => x.Number), Formatting.Indented);
     }
 
 

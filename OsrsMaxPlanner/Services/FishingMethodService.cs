@@ -1,9 +1,9 @@
 ﻿using OsrsMaxPlanner.Models;
 
 namespace OsrsMaxPlanner.Services;
-public static class MethodService
+public class FishingMethodService : IMethodService
 {
-    public static IEnumerable<Method> GetFishingMethods()
+    public IEnumerable<Method> GetMethods()
     {
         yield return new Method
         {
