@@ -10,6 +10,8 @@ public class SkillingMethodService
         var methods = new List<Method>();
         methods.AddRange(GetMethods(nameof(SkillEnum.Fishing)));
         methods.AddRange(GetMethods(nameof(SkillEnum.Woodcutting)));
+        methods.AddRange(GetMethods(nameof(SkillEnum.Mining)));
+        methods.AddRange(GetMethods(nameof(SkillEnum.Hunter)));
         return methods;
     }
 

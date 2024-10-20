@@ -14,7 +14,7 @@
       }
     ],
     "Description": "There are 4 bird house locations on Fossil Island. They take approx. 50 mins to fill up with birds after you set them up. It's recommended you do as many of these in a day as possible since they provide you with birds nests, seeds and hunter xp. Ideally the bulk of your hunter XP comes from doing bird houses. Use the best logs available to you. Bring an extra clockwork and make the bird house while running to the next house after emptying one.",
-    "Requirements": "Fossil island access",
+    "Requirements": [ "Fossil island access" ],
     "SkillMethods": [
       {
         "Name": 22, // Hunter's SkillEnum value
