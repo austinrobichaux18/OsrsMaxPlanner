@@ -12,6 +12,8 @@ public class SkillingMethodService
         methods.AddRange(GetMethods(nameof(SkillEnum.Woodcutting)));
         methods.AddRange(GetMethods(nameof(SkillEnum.Mining)));
         methods.AddRange(GetMethods(nameof(SkillEnum.Hunter)));
+        methods.AddRange(GetMethods(nameof(SkillEnum.Firemaking)));
+        methods.AddRange(GetMethods(nameof(SkillEnum.Cooking)));
         return methods;
     }
 

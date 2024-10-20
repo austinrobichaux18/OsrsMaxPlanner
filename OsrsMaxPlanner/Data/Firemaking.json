@@ -1,0 +1,110 @@
+[
+  {
+    "Number": 1,
+    "Name": "Solo Todt - 290k firemaking, 15k con, 10k woodcutting xp/hr",
+    "PrimarySkill": 12,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/aBjRyjHfe1c",
+        "Title": "KV"
+      },
+      {
+        "Url": "https://youtu.be/AZTU7bHoAWY",
+        "Title": "Navus"
+      }
+    ],
+    "Description": "Doing solo wintertodt is the best points per hour, which can be useful for those either seeking more loot or construction xp from wintertodt. The videos do a good job at explaining the method. For more details, refer to https://pastebin.com/vbvf2RXU.",
+    "SkillMethods": [
+      {
+        "Name": 12,
+        "LevelRequired": 1,
+        "XpHour": 290000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 1,
+        "XpHour": 15000
+      },
+      {
+        "Name":9,
+        "LevelRequired": 1,
+        "XpHour": 10000
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Name": "World 9 Wintertodt - 330k firemaking, 4.4k construction, 20k woodcutting xp/hr",
+    "PrimarySkill": 12,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/V9npIrx-m3o",
+        "Title": "Wines between rounds"
+      },
+      {
+        "Url": "https://youtu.be/uXnRYWE3HEU",
+        "Title": "Firemaking between rounds"
+      },
+      {
+        "Url": "https://youtu.be/mhPPbCKJQ-4",
+        "Title": "Celastrus barking to start cutting earlier example"
+      },
+      {
+        "Url": "https://streamable.com/06tggz",
+        "Title": "Fletching a log while lighting brazier"
+      }
+    ],
+    "Description": "After killing the wintertodt, use your house pool and then do a bank skill between rounds. Any skill where you can drop / use the output e.g. crafting glass / wines / log firemaking are best because you can do it while running to and while inside the wintertodt area. You can fletch a log while lighting the braziers, and walk out of the way when you see heavy snowfall above the brazier.",
+    "SkillMethods": [
+      {
+        "Name": 12,
+        "LevelRequired": 1,
+        "XpHour": 330000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 1,
+        "XpHour": 4400
+      },
+      {
+        "Name": 9,
+        "LevelRequired": 1,
+        "XpHour": 20000
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Name": "World-hop Wintertodt (380k+ xp/h at level 99)",
+    "PrimarySkill": 12,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=eVSlWkqnFJs",
+        "Title": ""
+      }
+    ],
+    "Description": "Use alts to scout a half-finished Wintertodt world. Fletch the bruma roots to get 500 points as quickly as possible. Use all tricks in Method #2 to maximize efficiency. This method can reach up to 400k firemaking xp/h, but the long-term rate is closer to 370k-380k.",
+    "SkillMethods": [
+      {
+        "Name": 12,
+        "LevelRequired": 1,
+        "XpHour": 380000
+      },
+      {
+        "Name": 9,
+        "LevelRequired": 1,
+        "XpHour": 18500
+      },
+      {
+        "Name": 10,
+        "LevelRequired": 1,
+        "XpHour": 12000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 1,
+        "XpHour": 5000
+      }
+    ]
+  }
+]

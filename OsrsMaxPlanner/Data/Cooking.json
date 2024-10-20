@@ -1,0 +1,146 @@
+[
+  {
+    "Number": 1,
+    "Name": "Wines 500k+ xp/hr",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/IVPJm6a60lk",
+        "Title": "Making wines"
+      },
+      {
+        "Url": "https://streamable.com/hu7rbb",
+        "Title": "5 tick, easier to maintain"
+      },
+      {
+        "Url": "https://streamable.com/bh0i3m",
+        "Title": "4 tick, hard to maintain but technically better rates"
+      }
+    ],
+    "Description": "Classic 14x14 skill, do this with your grapes from Zulrah/Vorkath. To get jugs of water, buy empty jug packs and fill them with the humidify spell.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 500000
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Name": "1t Karambwans - 950k xp/hr+",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/fFEsFfJwmsY",
+        "Title": ""
+      }
+    ],
+    "Description": "Hold your 2 key and click 1 karambwan on the fire every tick. The best place to do this is at the inferno bank or the myths guild because people can't walk on top of the fire like they can at rogues' den.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 950000
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Name": "Mess hall - 220k+ xp/hr",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=OxzkGS19e1k",
+        "Title": "Full method"
+      },
+      {
+        "Url": "https://streamable.com/q2j8zs",
+        "Title": "1 tick cooking pizzas"
+      }
+    ],
+    "Description": "Withdraw flour, fill bowls with water (humidify > sink), make pizza dough, use tomatoes and cheese on the dough, and cook them 1 at a time for faster xp. Hop worlds after each deposit to ensure you get the maximum xp drop.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 220000
+      }
+    ]
+  },
+  {
+    "Number": 4,
+    "Name": "Cook eating karambwans - 48k fishing and 194k cook / hr",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/sQfy7S7hG_M",
+        "Title": ""
+      }
+    ],
+    "Description": "Fish karambwans, cook one and eat one as soon as your bait goes down 1. Fish 1 cook 2 if you prefer. Use blessing 4 for more cooking/hr, otherwise, you'll get around 180k cook xp.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 194000
+      },
+      {
+        "Name": 11,
+        "LevelRequired": 1,
+        "XpHour": 48000
+      }
+    ]
+  },
+  {
+    "Number": 5,
+    "Name": "3 tick Fly Fishing cook + eat - 71,400 fishing + 95,854 cooking xp/hr",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/T-vxflWVH6s",
+        "Title": ""
+      },
+      {
+        "Url": "https://youtu.be/Bt5BlieARmU",
+        "Title": "Eirerie's video"
+      }
+    ],
+    "Description": "Use a 3 tick item to start cycle instead of leather (4 tick). Eat and then cook a fish in the same tick that you catch it, and if the tick cycle messes up, restart with leather.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 95854
+      },
+      {
+        "Name": 11,
+        "LevelRequired": 1,
+        "XpHour": 71400
+      }
+    ]
+  },
+  {
+    "Number": 6,
+    "Name": "Karambwan Shop Cook + Drop - 450k-480k xp / hour",
+    "PrimarySkill": 8,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=oS4XSh-ZsFo",
+        "Title": "One client, ~400k xp/ hour"
+      },
+      {
+        "Url": "https://www.youtube.com/watch?v=E-7D-aV6dNk",
+        "Title": "Multi client, up to 480k/ hour"
+      }
+    ],
+    "Description": "Buy karams from shop, 1t cook on fire lit with alternate account. You will eventually hit the hop limit with this method, but it's still significantly faster than before.",
+    "SkillMethods": [
+      {
+        "Name": 8,
+        "LevelRequired": 1,
+        "XpHour": 480000
+      }
+    ]
+  }
+]
