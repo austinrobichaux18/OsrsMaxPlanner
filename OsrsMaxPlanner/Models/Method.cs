@@ -5,7 +5,11 @@ public class Method
     public string Name { get; set; }
     public SkillEnum PrimarySkill { get; set; }
     public List<Video> Videos { get; set; }
+    public List<Video> Images { get; set; }
+    public List<string> Requirements { get; set; }
     public string Description { get; set; }
+    public int TotalXpForNon99Skills { get; set; }
+    public int NumberOfSkillsTrainedNon99Skills { get; set; }
     public List<SkillMethod> SkillMethods { get; set; }
 }
 public class Video

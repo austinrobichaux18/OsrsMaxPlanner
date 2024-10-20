@@ -1,0 +1,158 @@
+{
+  "methods": [
+    {
+      "Number": 1,
+      "Name": "3t 4 Granite 123k+ Xp/Hr",
+      "PrimarySkill": 18,
+      "Videos": [
+        {
+          "Url": "https://www.youtube.com/watch?v=ra0KsstFV9g",
+          "Title": "Aubury guide"
+        },
+        {
+          "Url": "https://www.youtube.com/watch?v=_-o5WjJ_rhs",
+          "Title": "Dear Sleeper's Tick perfect raw footage"
+        },
+        {
+          "Url": "https://www.youtube.com/watch?v=YWczVZpkFw0",
+          "Title": "Rank one 6 hour"
+        },
+        {
+          "Url": "https://youtu.be/Z7ZhuWFMxeA",
+          "Title": "Using rune pickaxe"
+        }
+      ],
+      "Requirements": [
+        "70+ Mining",
+        "Varrock armour 2+",
+        "Desert ammy 4 or Hitpoints cape and Regen Bracelet"
+      ],
+      "Description": "Using herb/tar to 3 tick granite for upwards of 130k/hr. You should use either Desert Amulet (4) or a combination of HP cape and Regen bracelet to survive the desert heat. Can be tricky to learn, so recommended that you give Aubury's guide a watch. If you're able to keep the cycle up your tier of pickaxe doesn't matter.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 70,
+          "XpHour": 130000
+        }
+      ],
+      "AdditionalInfo": {
+        "Mechanics": "Advanced explanation of 3 tick mining mechanics...",
+        "MechanicsUrl": "https://pastebin.com/pgyGjzr7"
+      }
+    },
+    {
+      "Number": 2,
+      "Name": "Motherlode Mine - 45k+ xp/hr",
+      "PrimarySkill": 18,
+      "Videos": [
+        {
+          "Url": "https://docs.google.com/document/d/1f8Mvxd4X5_tu7zlRW8lWd0_J2TsPzM6xcnhvkxZVr7Q/edit",
+          "Title": "Motherlode mine guide"
+        }
+      ],
+      "Description": "Unlock upper level > sack > outfit if you're doing MLM for xp. For efficiency, do MLM at 85+ until you get the outfit, then never go back.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 85,
+          "XpHour": 45000
+        }
+      ]
+    },
+    {
+      "Number": 3,
+      "Name": "Iron Ore - 80k xp/hr",
+      "PrimarySkill": 18,
+      "Videos": [
+        {
+          "Url": "https://youtu.be/Vc7PCTlPijM",
+          "Title": "Mining guild w/ dragon pickaxe"
+        },
+        {
+          "Url": "https://youtu.be/K2ClH8QT_lU",
+          "Title": "3 tick iron in ardy loc"
+        },
+        {
+          "Url": "https://youtu.be/ra0KsstFV9g?t=572",
+          "Title": "3 tick iron in ardy guide"
+        }
+      ],
+      "Description": "You can 3 tick the 4 rocks to the north east in the Ardy location, this is a good option pre mining guild.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 60,
+          "XpHour": 80000
+        }
+      ]
+    },
+    {
+      "Number": 4,
+      "Name": "Volcanic mine",
+      "PrimarySkill": 18,
+      "Videos": [
+        {
+          "Url": "https://youtu.be/i72MyZMkRaU",
+          "Title": "Wooxs guide"
+        },
+        {
+          "Url": "https://youtu.be/dCAc5hxoUvs",
+          "Title": "Jukebox Romeos example video"
+        }
+      ],
+      "Description": "Volcanic mine is also the best alternative to 4g. Teams are slightly more AFK than alting VM, in return for lower xp/hr.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 90,
+          "XpHour": 103000
+        }
+      ]
+    },
+    {
+      "Number": 5,
+      "Name": "Zalcano",
+      "PrimarySkill": 18,
+      "Videos": [],
+      "Description": "Doing Zalcano is the only way to get a crystal tool seed. Doing Zalcano in teams of 4 is best, as loot scales with your personal damage contribution to the kill.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 99,
+          "XpHour": 100000
+        }
+      ]
+    },
+    {
+      "Number": 6,
+      "Name": "3t Gem Mining 110-115k xp/hr (21k banked Crafting xp/hr)",
+      "PrimarySkill": 18,
+      "Videos": [
+        {
+          "Url": "https://www.youtube.com/watch?v=Xr1vZMm2JvI",
+          "Title": "3t Gem Mining"
+        }
+      ],
+      "Requirements": [
+        "Charged Amulet of Glory",
+        "Karamja Hard Diary",
+        "Runes for Vile Vigour",
+        "Desert Amulet 4 or Stam Pool POH",
+        "Gem Bag"
+      ],
+      "Description": "Follow the route shown in the video for optimal xp rates. Use Vile Vigour when you are out of run. Tele to nardah to restore prayer/run when your run drains the second time.",
+      "SkillMethods": [
+        {
+          "Name": 18,
+          "LevelRequired": 70,
+          "XpHour": 115000
+        },
+        {
+          "Name": 11,
+          "LevelRequired": 0,
+          "XpHour": 21000
+        }
+      ]
+    }
+  ]
+}

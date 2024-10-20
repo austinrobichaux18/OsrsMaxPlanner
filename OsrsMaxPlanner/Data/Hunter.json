@@ -1,0 +1,165 @@
+[
+  {
+    "Number": 1,
+    "Name": "Bird Houses - 240k xp/hr",
+    "PrimarySkill": 22, // Hunter's SkillEnum value
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=SpG53QFW_Y8",
+        "Title": "Efficient bird house run"
+      },
+      {
+        "Url": "https://youtu.be/Tf02JEqkUcA",
+        "Title": "Alkans bird houses guide, great for absolute beginners"
+      }
+    ],
+    "Description": "There are 4 bird house locations on Fossil Island. They take approx. 50 mins to fill up with birds after you set them up. It's recommended you do as many of these in a day as possible since they provide you with birds nests, seeds and hunter xp. Ideally the bulk of your hunter XP comes from doing bird houses. Use the best logs available to you. Bring an extra clockwork and make the bird house while running to the next house after emptying one.",
+    "Requirements": "Fossil island access",
+    "SkillMethods": [
+      {
+        "Name": 22, // Hunter's SkillEnum value
+        "LevelRequired": 1,
+        "XpHour": 240000 // Experience per hour for this method
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Name": "Black Chins 200-285k xp/hr",
+    "PrimarySkill": 22,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/vK5Y1COFgj4",
+        "Title": "With alt: 270-280k xp/hr (Raw footage)"
+      },
+      {
+        "Url": "https://youtu.be/TF22MC3BInk",
+        "Title": "Guide + Commentary"
+      },
+      {
+        "Url": "https://youtu.be/ne8KLNP6qx4",
+        "Title": "Without alt: 220-230k xp/hr"
+      },
+      {
+        "Url": "https://youtu.be/F4EfmK0dnBs",
+        "Title": "Bow resetting"
+      }
+    ],
+    "Description": "The method is done by efficiently resetting your traps. Check the trap resetting guide in this channel for an in-depth explanation. Traps are set up to catch 3 separate spawns. Using RuneLite and tagging NPCs is highly recommended to track and shoot chins that run away.",
+    "SkillMethods": [
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 200000
+      },
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 285000
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Name": "Red Chinchompas 185k-215k xp/hr",
+    "PrimarySkill": 22,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/DloXYHrXV7g",
+        "Title": "Prif location"
+      },
+      {
+        "Url": "https://youtu.be/NzYqexEUzK0",
+        "Title": "Without alt: 185k-205k xp/hr"
+      },
+      {
+        "Url": "https://youtu.be/mrDkhnCTP8Q",
+        "Title": "With alt: 200-220k+ xp/hr"
+      }
+    ],
+    "Description": "This method involves efficient trap resetting. Prifddinas red chincompas are better due to the 3 spawns surrounding your traps, granting more XP as more chins group around the traps.",
+    "SkillMethods": [
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 185000
+      },
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 215000
+      }
+    ]
+  },
+  {
+    "Number": 4,
+    "Name": "Drift Net Fishing 112k Hunter + 85k Fishing xp/hr",
+    "PrimarySkill": 22,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=wW6UMC8y1Og",
+        "Title": "Farming Jute Fibres and crafting Drift Nets"
+      }
+    ],
+    "Description": "Drift net fishing yields Hunter XP and Fishing XP. Jute fibres are obtained from hop patches and crafted into drift nets. It's recommended to do jute runs after herb runs to optimize time. This method is not macro-efficient for 200M XP.",
+    "SkillMethods": [
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 112000
+      },
+      {
+        "Name": 11,
+        "LevelRequired": 1,
+        "XpHour": 85000
+      }
+    ]
+  },
+  {
+    "Number": 5,
+    "Name": "Herbiboar 173k+ xp/hr, 3.5k+ Herblore",
+    "PrimarySkill": 22,
+    "Videos": [
+      {
+        "Url": "https://streamable.com/ocja3d",
+        "Title": "Herbi with glassblowing"
+      }
+    ],
+    "Description": "Herbiboar hunting provides decent Hunter XP and banked Herblore XP. Use the 'Herbi AFK' plugin to automatically show the correct node to search, improving efficiency.",
+    "SkillMethods": [
+      {
+        "Name": 22,
+        "LevelRequired": 1,
+        "XpHour": 173000
+      },
+      {
+        "Name": 16,
+        "LevelRequired": 1,
+        "XpHour": 3500
+      }
+    ]
+  },
+  {
+    "Number": 6,
+    "Name": "Master Hunter Rumours 240k xp/hr",
+    "PrimarySkill": 22,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=F-awham9tqw",
+        "Title": "He Box Jonge's In Depth Rumours Guide"
+      },
+      {
+        "Url": "https://www.youtube.com/watch?v=O8_E5_3TpuQ",
+        "Title": "Raw Master Rumour Footage"
+      }
+    ],
+    "Description": "Master Hunter Rumours is a high-level hunting method with multiple tasks. Blocklist management allows players to avoid bad tasks and optimize XP rates. This method is a great alternative if you don't need ranged XP or bird nests.",
+    "SkillMethods": [
+      {
+        "Name": 22,
+        "LevelRequired": 91,
+        "XpHour": 240000
+      }
+    ]
+  }
+]

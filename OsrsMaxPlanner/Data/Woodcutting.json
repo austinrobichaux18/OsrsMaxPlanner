@@ -1,0 +1,211 @@
+[
+  {
+    "Number": 1,
+    "Name": "Oaks",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/c1E3dS2INpY",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "You should 3 tick/afk oaks outside your POH in Rimmington, enter your house, call your butler using “Settings > House Options > Call Servant” have him take your logs to the sawmill, leave your house, and repeat.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 1400
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 0,
+        "XpHour": 84000
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "Name": "Teaks with log basket",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/mBdvrM_d3RI",
+        "Title": "Teaks"
+      },
+      {
+        "Url": "https://youtu.be/eBSrgn50h2I",
+        "Title": "Mahogany's"
+      }
+    ],
+    "Description": "If you're going to be doing 3t / afk teaks and not 2t/1.5t then consider using the ape atoll location, as it's a shorter run to the trees. This is the method you’ll use for the majority of your construction xp. Cut an inv of teaks on fossil island, ideally by 1.5 ticking, house tele, convert logs to planks with the butler while running to mounted digsite pendant, repeat. Use the planks you cut on mounted myth capes, they give more xp per teak plank.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 150000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 0,
+        "XpHour": 191000
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "Name": "2t Teaks + dropping",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=g9D8OcbO7LM",
+        "Title": "Ape Atoll"
+      },
+      {
+        "Url": "https://youtu.be/BBVT0mZNdg4",
+        "Title": "Priff"
+      }
+    ],
+    "Description": "Using two rabbits/birds attacking you every two ticks and a 2 or 3 tick weapon equipped with auto retaliate on, you will start a 1 tick cycle every other tick by ensuring that your character is not interacting with a tree (or a rabbit) on the tick you're attacked.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 190000
+      }
+    ]
+  },
+  {
+    "Number": 4,
+    "Name": "1.5t Teaks + dropping",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=sxwNwn3CHNw",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "The basic idea is that you herb tar - move - click on the tree in a 3 tick cycle. Something about moving makes the game think you are attempting to cut the tree twice in 3 ticks, so you get 2 rolls to get a log every 3 ticks, making this 1.5t woodcutting. You will need graceful and staminas to do this method as you will be running a lot. Drop logs whilst you are moving. Quite a hard method to learn so gl.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 195000
+      }
+    ]
+  },
+  {
+    "Number": 5,
+    "Name": "Sulliuscep woodcutting",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/Sxzg9cMhaMQ",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "As the fastest way to obtain fossils if people are looking to complete their museum or just want semi-afk exp/hr you can equip your best range defense if you don't want to pay minimal attention. You are UNABLE to pray against the tar monster, but with it dealing range damage you can equip your best range def bonuses. The route is fixed and different for each person, so if you see someone chopping the same mushroom with you, it shouldn’t affect you.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 110000
+      }
+    ]
+  },
+  {
+    "Number": 6,
+    "Name": "Redwoods",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://youtu.be/WqiYS2KPcZM",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "AFK method of training woodcutting, very easy to do on your phone or while playing other games. You can also cut your personal redwood in the farming guild, but it's slightly worse xp/hr since there's no invisible boost from being in the woodcutting guild.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 60000
+      }
+    ]
+  },
+  {
+    "Number": 7,
+    "Name": "2t Teaks + Planks w/ Alt",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=AnelSKsxLCo&feature=youtu.be",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "Using your alt and darts to replace the birds in the 2 Tick Teaks method described above, chop a full inventory of teak logs and teleport to POH using a construction cape OR house tabs you've made. Call your butler and have him take the planks to the sawmill, then teleport back to Ape Atoll.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 120000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 0,
+        "XpHour": 171000
+      }
+    ]
+  },
+  {
+    "Number": 8,
+    "Name": "2t Teaks + Planks",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://streamable.com/ss7tz",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "This is a slower but less click intensive alternative to 1.5t teaks on Fossil Island (Method #2). The experience per hour will increase as more aspects of 1.5t teaks are incorporated. To do this method, click to move on the tick after an xp drop would be, then click back onto the tree.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 0,
+        "XpHour": 100000
+      },
+      {
+        "Name": 23,
+        "LevelRequired": 0,
+        "XpHour": 142000
+      }
+    ]
+  },
+  {
+    "Number": 9,
+    "Name": "Basketwoods",
+    "PrimarySkill": 9,
+    "Videos": [
+      {
+        "Url": "https://www.youtube.com/watch?v=VpKDHis-A14",
+        "Title": "Guide"
+      }
+    ],
+    "Description": "1.5 tick redwoods with banking is currently the most macro-efficient way to train woodcutting. This method varies significantly hour by hour since there's a fair amount of RNG involved. Optimizations to mitigate bad RNG include firemaking until one respawns or doing a bank skill.",
+    "SkillMethods": [
+      {
+        "Name": 9,
+        "LevelRequired": 90,
+        "XpHour": 200000
+      },
+      {
+        "Name": 20,
+        "LevelRequired": 90,
+        "XpHour": 0
+      },
+      {
+        "Name": 12,
+        "LevelRequired": 0,
+        "XpHour": 40000
+      }
+    ]
+  }
+]
